@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965770198804",
+    "project_id": "seed-app-c0778",
+    "storage_bucket": "seed-app-c0778.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965770198804:android:5bff10bda830a77ffe8c01",
+        "android_client_info": {
+          "package_name": "com.example.seed_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfn7pwJtYL9FRGhsXX0vdZDPOzEU4SZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
